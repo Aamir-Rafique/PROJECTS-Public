@@ -7,8 +7,8 @@ How to use this application?
 
 done?
 
-5. Now open "Application Files" folder and click on "publish" (.html) file.
-6. in your browser click on install.
-.... follow the steps to install it..
+5. Now open "Setup" folder and click on "GymAndFitness" (menifest app) file.
+
+then .. follow the steps to install it..
 
 Gym & Fitness app in action....
